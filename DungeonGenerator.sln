@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DungeonGenerator", "DungeonGenerator\DungeonGenerator.vcxproj", "{0945A2DD-D015-4017-A9EA-C5A1726DFA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Debug|x64.ActiveCfg = Debug|x64
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Debug|x64.Build.0 = Debug|x64
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Debug|x86.ActiveCfg = Debug|Win32
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Debug|x86.Build.0 = Debug|Win32
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Release|x64.ActiveCfg = Release|x64
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Release|x64.Build.0 = Release|x64
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Release|x86.ActiveCfg = Release|Win32
+		{0945A2DD-D015-4017-A9EA-C5A1726DFA32}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66EF31D-3CAE-4BBC-9FFE-03FD5A14E02F}
+	EndGlobalSection
+EndGlobal
